@@ -18,6 +18,11 @@
 -   支持标准箱、混装箱、尾箱三种装箱模式，贴近真实工厂操作逻辑
 -   计算结果可直接复制到 Excel 使用，无需手动二次处理
 -   纯算法逻辑，可独立嵌入 Python 脚本、工具或系统中，灵活度高
+
+## ☕ Thanks
+-   如果你觉得这个工具帮你省下了时间，欢迎请我喝杯咖啡，支持我继续迭代和优化~
+-   <img width="255" height="255" alt="alipay" src="https://github.com/user-attachments/assets/4f20daaa-ce20-41e4-ad5c-c9971a7f4660" />
+
 ---
 
 ## 🛠️ 使用示例
@@ -37,11 +42,4 @@ print(size_qty)  # 输出各尺码分配数量
 box_size = {"length": 60, "width": 40, "height": 30}
 packing_result = packing_calculator.optimize(size_qty, box_size)
 print(packing_result)  # 输出标准箱数、尾箱数与每箱配比
-
 ---
-## ☕ thanks
-如果你觉得这个工具帮你省下了时间，欢迎请我喝杯咖啡，支持我继续迭代和优化(If you think this tool has saved you time, please treat me to a cup of coffee to show your support for me to continue iterating and optimizing it.)：
-<img width="300" height="300" alt="alipay" src="https://github.com/user-attachments/assets/105a8d27-5cbf-444f-9451-e1f97d65ac13" />
-
----
-
