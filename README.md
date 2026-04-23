@@ -1,3 +1,4 @@
+<img width="1080" height="1080" alt="alipay" src="https://github.com/user-attachments/assets/da63b915-9c1f-41f6-9a63-d49406c65819" />
 # ipack-algorithm
 
 外贸服装智能装箱与尺码配比核心算法 / Apparel intelligent packing and size matching algorithm for foreign trade.
