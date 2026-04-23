@@ -38,5 +38,5 @@ print(packing_result)  # 输出标准箱数、尾箱数与每箱配比
 ---
 ## ☕ thanks
 如果你觉得这个工具帮你省下了时间，欢迎请我喝杯咖啡，支持我继续迭代和优化(If you think this tool has saved you time, please treat me to a cup of coffee to show your support for me to continue iterating and optimizing it.)：
-
+---
 <img width="320" height="320" alt="alipay" src="https://github.com/user-attachments/assets/da63b915-9c1f-41f6-9a63-d49406c65819" />
