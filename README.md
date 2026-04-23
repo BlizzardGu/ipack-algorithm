@@ -4,7 +4,7 @@
 外贸服装智能装箱与尺码配比核心算法 / Apparel intelligent packing and size matching algorithm for foreign trade.
 ---
 ## 📥 下载地址
-所有版本已发布在 [Releases 页面](https://github.com/BlizzardGu/ipack-algorithm/releases/tag/iPackV1.0.1)，推荐下载最新版使用。
+所有版本已发布在 [Releases 页面](https://github.com/BlizzardGu/ipack-algorithm/releases)，推荐下载最新版使用。
 ---
 
 ## 📌 项目简介
