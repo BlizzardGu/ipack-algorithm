@@ -21,7 +21,7 @@
 
 ## ☕ Thanks
 -   如果你觉得这个工具帮你省下了时间，欢迎请我喝杯咖啡，支持我继续迭代和优化~
--   <img width="255" height="255" alt="alipay" src="https://github.com/user-attachments/assets/4f20daaa-ce20-41e4-ad5c-c9971a7f4660" />
+
 
 ---
 
